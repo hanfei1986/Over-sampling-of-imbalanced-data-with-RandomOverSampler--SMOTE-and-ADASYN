@@ -3,26 +3,35 @@ Imbalanced data commonly exist in real world, especially in anamoly-detection ta
 
 The data for the "Poor" and "Good" classes are much less than the "Standard" class:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/579ba670-7c2f-4c92-9fd4-4648b1ff7897)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/1458a6b1-f9fb-4d0d-b23d-452b499ea75b)
 
 The predictions are biased towards the majority class:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/f717212e-bdf4-49d9-b4ca-b71655072439)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/05bf2317-a83a-426b-bd04-5359dd66c7ec)
+
+Over-sampling with RandomOverSampler:
+
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/a69212a0-38fc-4cf3-a233-1a16462a0276)
+
+The predictions get a little bit more balanced:
+
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/1133e801-5136-4c34-86d1-01a0106ee30c)
 
 Over-sampling with SMOTE:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/b04cd84a-a7c5-4512-a195-78eec7f3deef)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/1636ad13-51e3-49e3-9fbc-6fa0de4113f7)
 
 The predictions get more balanced:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/0c23e39e-150a-45fc-821a-5a1a2cada733)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/cd7540c0-4532-494b-9de8-c1796a6dc1fa)
 
 Over-sampling with ADASYN:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/833ee329-6426-485b-9eb1-27bfed2b3e19)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/d60d9a01-b941-4081-ad40-1b38851d2c6e)
 
 The predictions get more balanced:
 
-![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-SMOTE-and-ADASYN/assets/59255164/139d809e-ec99-4fe6-a90a-702108f48bf7)
+![image](https://github.com/hanfei1986/Over-sampling-of-imbalanced-data-with-RandomOverSampler--SMOTE-and-ADASYN/assets/59255164/39073141-9407-41bb-b90b-66e0ca0f100a)
+
 
 
