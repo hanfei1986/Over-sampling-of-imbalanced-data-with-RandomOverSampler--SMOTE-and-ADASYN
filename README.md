@@ -1,5 +1,5 @@
 # Oversampling-of-imbalanced-data-with-SMOTE-and-ADASYN
-Imbalanced data commonly exist in real world, especially in anamoly-detection tasks. Handling imbalanced data is important to the tasks, otherwise the predictions are biased towards the majority class. RandomOverSampler, SMOTE and ADASYN are useful oversampling tools to fill data for minority classes.
+Imbalanced data commonly exist in real world, especially in anamoly-detection tasks. Handling imbalanced data is important to the tasks, otherwise the predictions are biased towards the majority class. RandomOverSampler, SMOTE, and ADASYN are useful oversampling tools to fill data for minority classes.
 
 The data for the "Poor" and "Good" classes are much less than the "Standard" class:
 
